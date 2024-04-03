@@ -16,3 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+
+/* :disabled {
+  background-color: dimgrey;
+  color: linen;
+  opacity: 1;
+} */
