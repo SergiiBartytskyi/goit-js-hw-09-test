@@ -18,8 +18,26 @@ img {
 }
 
 
-/* :disabled {
-  background-color: dimgrey;
-  color: linen;
-  opacity: 1;
-} */
+.timer {
+  display: flex;
+  gap: 5px;
+  margin-top: 20px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.value {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.label {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+}
